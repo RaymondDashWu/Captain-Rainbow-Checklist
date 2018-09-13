@@ -1,0 +1,16 @@
+List 5 methods available on a list
+- Append, remove, update, destroy, create
+What is a stack? How can a list be used to implement it?
+- A stack is a set of functions or libraries used to unify the code. A list can help define functions within that stack
+let mypets = ... each line
+- mypets[1] = "dog" | mypets[3] = not in range
+write code to
+- names = ["bla", "bla2", "bla3"]
+- names.insert(1, "bla4")
+- names.pop()
+
+Grade
+7/9
+
+Corrections:
+A stack is a collection of objects that supports fast last-in, first-out (LIFO) semantics for inserts and deletes. Unlike lists or arrays, stacks typically don’t allow for random access to the objects they contain. The insert and delete operations are also often called push and pop.
